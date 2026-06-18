@@ -44,26 +44,7 @@
         <artifactId>allure-testng</artifactId>
         <version>2.24.0</version>
     </dependency>
-  	<dependency>
-  		<groupId>com.vts.testing</groupId>
-  		<artifactId>Cross_BrowserTesting</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com.vts.testing</groupId>
-  		<artifactId>POM_withPageFactory</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com_vts_Testing</groupId>
-  		<artifactId>SeleniumFrameworkPractice</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
-  		<groupId>com_vts_Testing</groupId>
-  		<artifactId>PracticeSelenium</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  
   </dependencies>
 
   <build>
